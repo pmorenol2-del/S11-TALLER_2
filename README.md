@@ -155,11 +155,11 @@ No requiere instalación de dependencias.
 
 # 👥 Integrantes
 
-- **<Echeverría Mora Bryan Jordano>**
-- **<Encalada Lascano Lehilser Eduardo>**
-- **<Calva Rea Jeremy Alexis>**
-- **<Asang Veloz Edson Andrés>**
-- **<Moreno Llaguno Pablo César>**
+- **Echeverría Mora Bryan Jordano**
+- **Encalada Lascano Lehilser Eduardo**
+- **Calva Rea Jeremy Alexis**
+- **Asang Veloz Edson Andrés**
+- **Moreno Llaguno Pablo César**
 
 ---
 
