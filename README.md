@@ -148,6 +148,8 @@ No requiere instalación de dependencias.
   <img src="Capturas/Codigo.PNG" alt="Código JavaScript" width="900">
 </p>
 
+---
+
 # 💻 Tecnologías utilizadas
 
 | Tecnología | Uso |
