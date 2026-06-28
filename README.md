@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛒 Taller 02 - Programación Modular con JavaScript
+# Taller 02 - Programación Modular con JavaScript
 
 ### Simulador de Factura de Ventas / Cajero Bancario Inteligente
 
