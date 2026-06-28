@@ -110,25 +110,43 @@ No requiere instalación de dependencias.
 
 # 📸 Capturas del sistema
 
-## Pantalla principal
+## 🏠 Pantalla principal
 
-> Agregar aquí una captura del sistema.
-
-```
-📷 captura-principal.png
-```
+<p align="center">
+  <img src="Capturas/Facturas.PNG" alt="Pantalla principal" width="900">
+</p>
 
 ---
 
-## Resultado de una prueba
+## 🧾 Resultado de la factura
 
-> Agregar aquí otra captura mostrando el funcionamiento.
-
-```
-📷 captura-prueba.png
-```
+<p align="center">
+  <img src="Capturas/FacturasRe.PNG" alt="Resultado de la factura" width="900">
+</p>
 
 ---
+
+## 🏦 Cajero Bancario
+
+<p align="center">
+  <img src="Capturas/Banco.PNG" alt="Cajero Bancario" width="900">
+</p>
+
+---
+
+## 💰 Resultado del Cajero
+
+<p align="center">
+  <img src="Capturas/BancoRe.PNG" alt="Resultado del Cajero" width="900">
+</p>
+
+---
+
+## 💻 Código JavaScript
+
+<p align="center">
+  <img src="Capturas/Codigo.PNG" alt="Código JavaScript" width="900">
+</p>
 
 # 💻 Tecnologías utilizadas
 
