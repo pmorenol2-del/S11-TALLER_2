@@ -97,7 +97,7 @@ El sistema fue desarrollado como una aplicación web que permite resolver un cas
 1. Clonar el repositorio.
 
 ```bash
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/pmorenol2-del/S11-TALLER_2.git
 ```
 
 2. Abrir la carpeta del proyecto.
